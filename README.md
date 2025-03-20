@@ -7,7 +7,7 @@ Hi, I'm <b>Kumudu </b>, a passionate Software Developer & Tech Enthusiast with a
 
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
-
+<br>
 
 ## 🌐 Connect with me:
 
